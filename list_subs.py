@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import praw
 
 user_agent = ("/u/dyingtosaythis's second reddit thing")
